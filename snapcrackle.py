@@ -14,8 +14,8 @@ for i in range (1, 101):
 	 	print ('CracklePop')
 	 	
 	elif (i % 5 == 0):
-		print ('pop')
+		print ('Pop')
 	elif (i % 3 ==0) :
-		print ('crackle')
+		print ('Crackle')
 	else:
   		print(i)
